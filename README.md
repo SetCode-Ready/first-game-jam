@@ -8,3 +8,7 @@ Link para o documento no Overleaf: https://www.overleaf.com/read/fgvvrypmhjhn
 ## Trello
 
 Link para o quadro de atividades no Trello: https://trello.com/b/JxpiJPbk/primeira-game-jam
+
+## Site
+
+Link para o site do projeto: https://setgamesready.netlify.app/
