@@ -17,7 +17,7 @@ body{
 	background:#FFFFFF;
 }
 .banner{
-	background: url(../images/1.jpg) no-repeat 0px 0px;
+	background: url(../images/background-parallax.png) no-repeat 0px 0px;
     background-size: cover;
 }
 .agileinfo-dot{
@@ -45,7 +45,6 @@ body{
 }
 .agileits-logo h1 a{
     font-size: 2em;
-    text-transform: uppercase;
     color: #FF9800;
     text-decoration: none;
     font-weight: 700;
@@ -307,7 +306,7 @@ body{
 }
 .banner_text h3 {
     color: #FFFFFF;
-    font-size: 7em;
+    font-size: 5em;
     margin: 0;
     font-weight: 100;
     text-transform: uppercase;
@@ -367,8 +366,8 @@ body{
     margin: 4em 0 0 0;
 }
 .w3about-img {
-    background: url(../images/2.jpg)no-repeat 0px 0px;
-    background-size: cover;
+    background: url(../images/setGamesReady.png)no-repeat 0px 0px;
+    background-size: contain;
     min-height: 30em;
     padding: 0;
 	position:relative;
